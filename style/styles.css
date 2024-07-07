@@ -4,10 +4,10 @@ body {
 }
 
 button {
-  width: 350px;
-  height: 80px;
+  width: 450px;
+  height: 90px;
   color: #20a9d3;
-  font: 20px bold;
+  font: 30px bold;
   background: #4f4f4f;
   border: 2px solid #20a9d3;
   border-radius: 35px;
