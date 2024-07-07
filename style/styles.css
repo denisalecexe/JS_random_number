@@ -11,6 +11,7 @@ button {
   background: #4f4f4f;
   border: 2px solid #20a9d3;
   border-radius: 35px;
+  cursor: url(/cursor/cursor.cur), auto;
 }
 
 .container {

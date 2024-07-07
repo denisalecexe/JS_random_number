@@ -5,4 +5,4 @@ document.querySelector('button').addEventListener('click', function() {
 
 document.querySelector('#randomNum').style.fontSize = "35px";
 document.querySelector('#randomNum').style.fontWeight = "800";
-document.querySelector('#randomNum').style.color = "yellow";
+document.querySelector('#randomNum').style.color = "red";
